@@ -1,0 +1,11 @@
+html {
+  box-sizing: border-box;
+  background-color: #bebebe;
+  font-family: Georgia, serif;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
